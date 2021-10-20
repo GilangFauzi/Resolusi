@@ -1,10 +1,10 @@
 rencana program gilang
 - PHP
-  - Laravel
+  = Codegniter
 - JavaScript
   = ES6
-  = Framework JavaScript
-    - Angular
-    - React
+  = Framework
+    - Vue
+- Ajax
 - Bootsrap
 - jQuery
